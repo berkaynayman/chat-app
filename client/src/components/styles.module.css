@@ -1,3 +1,7 @@
+body{
+  background-color: #333;
+}
+
 .chatlist {
     border: solid 1px #ddd;
     padding: 10px;
