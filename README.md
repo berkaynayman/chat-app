@@ -19,7 +19,7 @@ That project is running if <a href="https://redis.io/">download redis-cli</a>
 <h3>2️⃣ Project is cloned ©️</h3>
   
 ```javascript
-git clone https://github.com/berkaynayman/chat-app.gitp
+git clone https://github.com/berkaynayman/chat-app.git
 ```
 
 <h3>2️⃣ Project dependencies download for backend and client 🔽 </h3>
