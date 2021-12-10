@@ -25,14 +25,14 @@ git clone https://github.com/berkaynayman/chat-app.git
 <h3>2️⃣ Project dependencies download for backend and client 🔽 </h3>
   
 ```javascript
-cd Backend
-npm install
+cd backend
+npm i
 ```
 
 ```
 cd ..
-cd Client
-npm install
+cd client
+npm i
 ```
 
 <h3>3️⃣ Project Running 🏃</h3>
